@@ -150,4 +150,5 @@ public class Trader<T> {
         return this.inventory;
     }
 
+    //Test
 }
